@@ -2,3 +2,4 @@ A emotion detection app that scan your face and will tell you your current emoti
 
 streamlit was used for the frontend 
 and tensorflow was used for the deep learing and model training 
+
